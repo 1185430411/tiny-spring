@@ -1,7 +1,7 @@
 tiny-spring
 =======
 
->A tiny IoC container refer to Spring.
+>A tiny IoC container refer to Spring
 
 ## 关于
 
